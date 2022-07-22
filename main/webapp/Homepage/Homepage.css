@@ -1,0 +1,51 @@
+@charset "ISO-8859-1";
+
+body {
+  background-color: #ffffcc; 
+}
+
+/* ffffcc */
+
+h2 {
+  color: blue; 
+  text-align: center;
+}
+
+.centerClass{
+	text-align: center;
+}
+
+.inputField{
+	position: absolute;
+	left:43%;
+}
+
+.homepageButtons {
+	color: green;
+	position: absolute;
+	/*top:50%;*/
+	left:45%;
+	line-height: 200%;
+}
+
+.error {
+	color: red;
+}
+
+.success {
+	color: green; 
+}
+
+#accBalance{
+	text-align: center;
+}
+
+#accountHistory{
+	text-align: center;
+}
+
+/* #depositButton{
+	position: absolute;
+	left:45%;
+} */
+
