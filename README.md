@@ -1,6 +1,7 @@
 # Banking-Application-using-JSP-servlets
 
 ## Salient Features
+> _Note: There might be some features that I didn’t add to the following list because [I forgot them](https://photos.app.goo.gl/ujX6DxgaZHJXa7he7)_ 🥲
 1. The project follows proper Spring MVC architecture.
 2. If a user jumps directly to a secure URL without Logging in, he will automatically be redirected to the home page for logging in/signing up.
 3. After a user has logged in, pressing back won’t log him out (it’ll keep the user on the dashboard). To log out, user has to manually “Log out”. 
@@ -14,6 +15,6 @@ Believe it or not, I’m as eager as you to see the screenshots of my project. W
 
 In order to generate the screenshots now, I’ll have to create the database again - which is **very easy**, but time-consuming.
 
-Anyways, at the end of the day, you’d be judging me on my **DSA and low level design skills**. So what are we waiting for? Kindly contact me on [LinkedIn](https://www.linkedin.com/in/parth-salat/) and schedule an interview.
+Anyways, at the end of the day, you’d be judging me on my **DSA and low-level design skills**. So what are we waiting for? Kindly contact me on [LinkedIn](https://www.linkedin.com/in/parth-salat/) and schedule an interview.
 
 
